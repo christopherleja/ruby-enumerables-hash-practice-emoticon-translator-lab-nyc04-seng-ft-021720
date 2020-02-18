@@ -8,7 +8,6 @@ emoticons["get_meaning"][jan] = meaning
 emoticons["get_emoticon"][eng] = jan
  end
  emoticons
- puts meaning
 end
 
 def get_japanese_emoticon(path, emoticon)
